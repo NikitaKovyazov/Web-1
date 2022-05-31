@@ -1,5 +1,4 @@
-poly = 2774;
-poly = String(poly);
+poly = prompt(' ');
 
 let ylop ="";
 let isPalindrom = false;
